@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T12:55:33 IST" name="Suite" finished-at="2023-11-28T12:56:11 IST" duration-ms="37946">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T12:55:33 IST" name="Test" finished-at="2023-11-28T12:56:11 IST" duration-ms="37946">
+      <class name="testngExecutionPackage.JavaTest">
+        <test-method signature="java_method()[pri:0, instance:testngExecutionPackage.JavaTest@1e1a0406]" started-at="2023-11-28T12:55:33 IST" name="java_method" finished-at="2023-11-28T12:55:45 IST" duration-ms="12432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- java_method -->
+      </class> <!-- testngExecutionPackage.JavaTest -->
+      <class name="testngExecutionPackage.SqlTest">
+        <test-method signature="sql_method()[pri:0, instance:testngExecutionPackage.SqlTest@4659191b]" started-at="2023-11-28T12:55:45 IST" name="sql_method" finished-at="2023-11-28T12:55:59 IST" duration-ms="14006" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sql_method -->
+      </class> <!-- testngExecutionPackage.SqlTest -->
+      <class name="testngExecutionPackage.Selenium_method">
+        <test-method signature="sql_method()[pri:0, instance:testngExecutionPackage.Selenium_method@55634720]" started-at="2023-11-28T12:55:59 IST" name="sql_method" finished-at="2023-11-28T12:56:11 IST" duration-ms="11390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sql_method -->
+      </class> <!-- testngExecutionPackage.Selenium_method -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
